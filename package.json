@@ -1,0 +1,35 @@
+{
+    "name": "node-regexp",
+    "description": "New RegExp Style for Node.js",
+    "version": "0.1.0",
+    "homepage": "https://github.com/yuanyan/node-regexp",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yuanyan/node-regexp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yuanyan/node-regexp/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/yuanyan/node-regexp/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "keywords": []
+}
