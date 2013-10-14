@@ -71,7 +71,7 @@ regexp.prototype.anything = function(){
     return this.add( "(?:.)*" )
 }
 
-regexp.prototype.anyhingBut = function(val){
+regexp.prototype.anythingBut = function(val){
     return this.add( "(?:[^", val, "])*" )
 }
 
@@ -120,4 +120,4 @@ regexp.prototype.toString = function(){
     return this.source
 }
 
-module.exports = regexp;
+module.exports = regexp

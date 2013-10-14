@@ -1,7 +1,7 @@
 {
     "name": "node-regexp",
     "description": "New RegExp Style for Node.js",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/yuanyan/node-regexp",
     "author": {
         "name": "yuanyan",
@@ -25,7 +25,7 @@
         "node": ">= 0.6.0"
     },
     "scripts": {
-        "test": ""
+        "test": "node test/test.js"
     },
     "dependencies": {
     },
